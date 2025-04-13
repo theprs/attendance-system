@@ -19,7 +19,7 @@ A real-time attendance marking system using facial recognition technology. Built
 - Python
 - FastAPI
 - Uvicorn
-- face_recognition
+- face_recognition(library based on dlib)
 - OpenCV (cv2)
 - NumPy
 - CORS middleware
